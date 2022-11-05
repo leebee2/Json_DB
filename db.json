@@ -184,5 +184,11 @@
         }
     ]
     ,
-    "users" : []
+    "users" : [
+        {
+            "email": "test@mail.com",
+            "password": "$2a$10$CJxBGgEYuvpBeDnhTto0ouBXwMNc0peo8wifYXSVJdbfS0lhlfbGe",
+            "id": 1
+        }
+    ]
 }
